@@ -1,0 +1,26 @@
+#menu ul {
+  background-color: #808080;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  height: 60px;
+}
+.item {
+  margin-left: 20px;
+  list-style: none;
+}
+.item a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  color: #000;
+}
+.item a:hover {
+  color: #fff;
+}
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: #7fffd4;
+}
