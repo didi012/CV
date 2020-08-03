@@ -36,3 +36,6 @@ body {
 #header img {
   background-color: rgba(189,178,255,0.5);
 }
+#header p {
+  text-align: center;
+}
